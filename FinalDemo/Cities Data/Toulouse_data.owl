@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://www.owl-ontologies.com/bike_details.owl#">
+
+  <rdf:Description rdf:nodeID="genid1">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 RUE GATIEN ARNOULT</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.360895196049641E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.441003598726198E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088408000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00055 - ST SERNIN G. ARNOULT</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid3">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FACE 15 RUE PIERRE LAROUSSE</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.359723540303583E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.45907112459247E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088786000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00195 - LARROUSSE -RIEUX</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid5">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31 RUE VALADE</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.360507190463363E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.437032051956223E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088780000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00029 - VALADE</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid7">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RUE DE LA CHARBONNIERE ANGLE RUE DES PALMIERS 31000 TOULOUSE</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.357383E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.44871E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088500000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280 - CHARBONNIERE</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid9">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38 AV JEAN MOULIN FACE DEBOUCHE RUE DE CANNES</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.357973711574819E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.441783289134449E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088987000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00156 - METRO EMPALOT</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid11">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RUE RAIMBAUD ANGLE RUE COLETTE</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.363386617815191E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.437493796200118E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088539000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00242 -  RAIMBAUD / COLETTE</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid13">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AVENUE EDOUARD BELIN FACE CHÂTEAU DU CREPS</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.356659576136374E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.474881961695726E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088468000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00224 - CAMPUS SUPAERO</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid15">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129 AV DE RANGUEIL</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.357143306405133E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.46278065695466E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088990000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00229 - IUT RANGUEIL</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid17">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RUE DES GALLOIS</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.358995890864312E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.4420311550308E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088854000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00154 - GALLOIS</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid19">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50 RUE DU GENERAL COMPANS</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.360974282737991E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.455204795385279E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088806000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00096 - MEDIATHEQUE</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid21">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 ALL FORAIN FRANCOIS VERDIER</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.359707484678027E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.452605307400692E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088591000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00065 - VERDIER - GRAND ROND</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid23">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24 BD LAZARE CARNOT</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.360221990815785E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.45195665819857E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088953000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00022 - CARNOT ROLAND</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid25">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RUE DE L'ABBE JULES LEMIRE</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.359729443895585E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.403872948950036E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088574000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00236 - TOEC / LEMIRE</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid27">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38B BD DES MINIMES</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.361525979922413E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.442921175845342E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088593000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00111 - MINIMES PASSERELLE</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid29">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 AV DES MAZADES</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.36241831342527E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.438302180907754E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088887000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00152 - MAZADES</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid31">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">96 av des Etats-Unis angle rue Jules Ferry</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.3632641237523E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.43180804154469E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088640000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00243 - ETATS-UNIS / FERRY</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid33">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41 AV MAURICE BOURGES MAUNOURY</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.363692179179762E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.452693250180783E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088697000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00174 - MAUNOURY / MELA</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid35">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chemin du Marin angle chemin du Reboul</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.358132E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.37975E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088408000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00276 - MARIN REBOUL</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid37">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 PL INTERIEURE ST CYPRIEN</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.359783583006141E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.431605284631358E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088493000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00077 - PLACE INT SAINT CYPRIEN</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid39">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47 BD JEAN BRUNHES</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.360094924792523E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.420275802412521E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>
+
+    <ns0:last_update rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1585088728000</ns0:last_update>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00137 - BRUNHES-FONTAINES</ns0:name>
+    <ns0:number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</ns0:number>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OPEN</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">toulouse</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:nodeID="genid41">
+    <ns0:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62 BD DE SUISSE</ns0:address>
+    <ns0:available_bike_stands rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:available_bike_stands>
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:available_docks>
+    <ns0:coordinate>
+      <rdf:Description>
+        <ns0:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.361606217398145E1</ns0:lat>
+        <ns0:lng rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.421715694303944E0</ns0:lng>
+      </rdf:Description>
+    </ns0:coordinate>

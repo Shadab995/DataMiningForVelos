@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://www.owl-ontologies.com/bike_details.owl#">
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/10013">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8871044052E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.36610446199E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alibert - Jemmapes</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/6108">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88470815908E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.32137478888E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saint-Romain - Cherche-Midi</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/33006">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.89103987576E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.38513559103E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">André Karman - République</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aubervilliers</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/11037">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88678724847E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.36489821581E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Faubourg Du Temple - Republique</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/44017">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.87962880709E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.41721212864E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jules Guesde - Pont du Port à l'Anglais</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vitry-sur-Seine</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/41303">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88384255335E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.49369330704E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gare de Nogent-le-Perreux</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nogent-sur-Marne</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/43009">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88468428627E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.45206207037E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Jean-Spire-Lemaître</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincennes</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/17004">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88889616186E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.32252897509E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Legendre - Clichy</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/45003">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88088953377E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.53824211657E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11 Novembre 1918 - 8 Mai 1945</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Champigny-sur-Marne</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/19043">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88939239631E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.39790290594E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Delphine Seyrig - Général Leclerc</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pantin</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/41209">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88470617336E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.47878223658E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cimetière</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fontenay-sous-Bois</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/35002">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8907134415E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.39600572805E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jean Jaurès - Presles</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pantin</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/11030">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88654533E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3760261E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oberkampf - République</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/35020">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88835462E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.4137883E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcelle - Thalie</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pantin</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/5012">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88451277283E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.34545681704E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estrapade - Ulm</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/19016">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88863936794E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.38654145444E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hautpoul - Jean Jaurès</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/7102">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88577967E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3192664E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mairie du 7ème</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/21302">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8821242484E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.25110024214E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aristide Briand - Place de la Résistance</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Issy-les-Moulineaux</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/33018">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.89111391495E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.37927228212E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edouard Poisson - Victor Hugo</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aubervilliers</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/7015">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88572026618E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.31527712196E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Varenne</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/16124">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88752598413E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.24941581488E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Route de Sèvres - Porte de Bagatelle</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/15010">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88475665453E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.30256915092E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Cambronne</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/13102">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88372080623E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3646864295E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pitié-Salpêtrière</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/6103">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88502345932E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.33038198203E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mézières - Rennes</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/15038">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8839594428E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.30106577277E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Adolphe Cherioux - Vaugirard</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/26001">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.89063645922E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.28350669146E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gare d'Asnières sur Seine</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asnières-sur-Seine</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/41204">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88524917218E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.46203452349E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">République - Danton</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fontenay-sous-Bois</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/6030">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88482741114E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.32924137264E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assas - Vaugirard</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/18008">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88866739679E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.35320556909E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Square Léon</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/23007">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88903405405E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.29206830263E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Président Wilson - Jean Jaures</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Levallois-Perret</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/7013">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88474606411E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.31261402369E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Duroc - Place de Breteuil</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/8032">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88714785912E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.31397792697E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matignon - Faubourg Saint-Honoré</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/22401">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88223308897E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.29857180341E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charles de Gaulle - Plateau de Vanves</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malakoff</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/21009">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88378083056E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.24083811045E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Le Corbusier - Jean Jaurès</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boulogne-Billancourt</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/11031">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88646605E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.373162E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jacquard - Ternaux</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/5029">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88401452135E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.33735740185E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Georges Bernanos - Port Royal</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/13027">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88162186403E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.34422687441E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mazagran - Pierre de Coubertin</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/10017">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8874575E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.356796E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gare de l'Est - Fidélité</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/11032">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8867937E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.377885E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jean-Pierre Timbaud - Vaucouleurs</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/15043">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88290022279E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.30143103816E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brancion - Lefebvre</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/5014">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88415885693E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.34848957509E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jean Calvin - Tournefort</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/14131">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8822032E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.329095E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jourdan - Monticelli</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/15004">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8840408688E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3154367134E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vaugirard - Pasteur</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/46002">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.87646675418E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.407155402E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rouget de Lisle</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NON</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choisy-le-Roi</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/15011">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88458475614E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.30175744742E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cambronne - Villa Croix Nivert</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/15071">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88547194E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.2952168E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suffren - Champ de Mars</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/13516">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88295229894E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.34357040375E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glacière - Soeur Catherine Marie</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/21402">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.87831947131E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.24291279912E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Aimé Césaire</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clamart</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/15127">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8846401E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.28502E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place Charles Michels</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/17009">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88923961462E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.31714259833E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paul Bodin - Clichy</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/16005">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88703061244E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.28507454142E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raymond Poincaré - Place Victor Hugo</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/44014">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8774703E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.373685E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camille Risch - Paul Armangot</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vitry-sur-Seine</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/7021">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88586517095E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.30371658023E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bosquet - Saint-Dominique</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/14023">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88236825875E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.30778437108E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adolphe Pinard - Victor Hugo</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malakoff</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/2021">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.8867458E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.3445211E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cléry - Montmartre</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/21215">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88161404871E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.31235619634E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verdier - Jean Jaurès</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Montrouge</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/4017">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88573314E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.351458E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Place de l'Hôtel de Ville</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/1012">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88629780597E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.34146352857E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jean-Jacques Rousseau - Deux Ecus</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/18112">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88978712501E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.33352184296E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arthur Ranc - Hôpital Bichat</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.owl-ontologies.com/10201">
+    <ns0:available_bikes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:available_bikes>
+    <ns0:available_docks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns0:available_docks>
+    <ns0:capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns0:capacity>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.88764953509E1</ns0:coordinate>
+    <ns0:coordinate rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.35609900206E0</ns0:coordinate>
+    <ns0:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magenta - Chabrol</ns0:name>
+    <ns0:status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OUI</ns0:status>
+    <ns0:ville rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paris</ns0:ville>
+  </rdf:Description>
